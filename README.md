@@ -1,5 +1,7 @@
 # dejavuln-autoroot
 
+## Warning, i dont test anything that i upload
+
 This is a tool to root LG TVs and automatically install
 [Homebrew Channel](https://github.com/webosbrew/webos-homebrew-channel).
 It uses [DejaVuln](https://twitter.com/jcxdev/status/1781668313958945132),
